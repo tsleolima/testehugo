@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arthur Dent</title>
-    <link>/</link>
+    <link>https://tsleolima.github.io/testehugo/</link>
     <description>Recent content on Arthur Dent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 21 Dec 2015 04:03:46 -0600</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tsleolima.github.io/testehugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Metamorphosis by Franz Kafka</title>
-      <link>/blog/metamorphosis-by-franz-kafka/</link>
+      <link>https://tsleolima.github.io/testehugo/blog/metamorphosis-by-franz-kafka/</link>
       <pubDate>Mon, 21 Dec 2015 04:03:46 -0600</pubDate>
       
-      <guid>/blog/metamorphosis-by-franz-kafka/</guid>
+      <guid>https://tsleolima.github.io/testehugo/blog/metamorphosis-by-franz-kafka/</guid>
       <description>sodifihdosdifhodi Negrito. Sem ser negrito.
 One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
  He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
@@ -25,10 +25,10 @@ One morning, when Gregor Samsa woke from troubled dreams, he found himself trans
     
     <item>
       <title>Use @ instead of HEAD</title>
-      <link>/blog/use-at-instead-of-head/</link>
+      <link>https://tsleolima.github.io/testehugo/blog/use-at-instead-of-head/</link>
       <pubDate>Tue, 25 Aug 2015 17:09:14 -0500</pubDate>
       
-      <guid>/blog/use-at-instead-of-head/</guid>
+      <guid>https://tsleolima.github.io/testehugo/blog/use-at-instead-of-head/</guid>
       <description>I recently discovered that from git version 1.8.5 onwards, @ can replace HEAD:
 $ git reset --hard @~2 $ git rebase -i @~10 $ git diff @~2..@~3  And also in most scenarios HEAD can be left out completely, so you can say:
 $ git reset -- @{2}  instead of:
@@ -37,10 +37,10 @@ $ git reset -- HEAD@{2}  It takes some getting used to, but it&amp;rsquo;s defin
     
     <item>
       <title>colophon</title>
-      <link>/about/colophon/</link>
+      <link>https://tsleolima.github.io/testehugo/about/colophon/</link>
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
-      <guid>/about/colophon/</guid>
+      <guid>https://tsleolima.github.io/testehugo/about/colophon/</guid>
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
